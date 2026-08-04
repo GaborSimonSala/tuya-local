@@ -6,6 +6,8 @@ products:
   - id: aqktrdhlsw8q90dr
     manufacturer: Zemismart
     model: SPM01-D2TW-ZM
+  - id: aokonryptsgpxawn
+    name: Breaker
 entities:
   - entity: switch
     icon: "mdi:fuse"
