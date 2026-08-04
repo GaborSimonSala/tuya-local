@@ -1,6 +1,9 @@
 name: Quad powerstrip with USB
 products:
   - id: keyjup78v54myhan
+  - id: z7vfikqqhyl9qjsl
+    manufacturer: LSC Smart Connect
+    model: Power Strip EU excl. Power Meter
 entities:
   - entity: switch
     translation_key: outlet_x
@@ -52,6 +55,7 @@ entities:
         name: switch
   - entity: switch
     name: USB
+    icon: "mdi:usb"
     dps:
       - id: 5
         type: boolean
