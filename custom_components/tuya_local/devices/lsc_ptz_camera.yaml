@@ -12,6 +12,12 @@ products:
   - id: iq3hpslazezny9k3
     manufacturer: LSC Smart Connect
     model: PTZ Camera
+  - id: k56etquy1kdmbtvl
+    manufacturer: LSC Smart Connect
+    model: PTZ camera
+  - id: rudejjigkywujjvs
+    manufacturer: LSC Smart Connect
+    model: PTZ Camera
 entities:
   - entity: switch
     name: Camera record
