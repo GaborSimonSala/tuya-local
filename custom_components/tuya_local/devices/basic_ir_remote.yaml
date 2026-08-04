@@ -13,6 +13,8 @@ products:
     manufacturer: Avatto
     name: Smart IR+RF Remote Control
     model: S16Pro
+  - id: dnzxlawuisg9vwjt
+    name: Smart IR
 entities:
   - entity: remote
     dps:
