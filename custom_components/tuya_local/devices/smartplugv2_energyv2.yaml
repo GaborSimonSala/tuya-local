@@ -19,6 +19,20 @@ products:
   - id: key7mapd9sdpyyf9
     manufacturer: Blackt Electrotech
     model: Smart Meter Pro Switch
+  - id: 6sfrvjaazvxsdgbp
+    manufacturer: LSC Smart Connect
+    model: Power Plug EU incl. Power meter
+  - id: jrsr2b2exkdoiq31
+    manufacturer: LSC Smart Connect
+    model: Smart Power Plug
+  - id: 5s0ygsmd6hcirsog
+    manufacturer: LSC Smart Connect
+    model: Smart Power Plug
+  - id: gfjqeql55ayhmgli
+    manufacturer: Tesla Smart
+    model: Smart Plug
+  - id: m4jtkjc43ltrilru
+    name: T34-Smart Plug+
 entities:
   - entity: switch
     class: outlet
