@@ -26,6 +26,12 @@ products:
   - id: vv0g9jsdtspogawu
     model: "WiFi+BLE 1 Gang"
     # has additional dps 49 and 50 for remote management
+  - id: epfedeubbvlotcjo
+    name: Smart Plug
+  - id: hxonurec339srfop
+    name: WiFi Breaker
+  - id: nlfukjnp7vcdsmqa
+    name: T34-MINI switch
 entities:
   - entity: switch
     dps:
